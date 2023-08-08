@@ -1,16 +1,25 @@
 USAGE :
+
 ./fractal parameters
+
 list of available parameters :
+
 1 - mandelbrot
+
 2 - julia
+
 3 - tricorn
 
 COMMANDS :
+
 G : change color .
+
 use mouse wheel to zoom in and out .
+
 use the direction keys to move whitin an image .
 
-fract-ol is an interactive fractal visualization project developed in C, utilizing the powerful MLX (MiniLibX) library for graphical rendering. Fractals, complex mathematical patterns that exhibit self-similarity at various scales, are brought to life in this project through an intuitive and engaging user interface.
+fract-ol is an interactive fractal visualization project developed in C, utilizing the powerful MLX (MiniLibX) library for graphical rendering. Fractals, complex mathematical patterns that exhibit self-similarity at various scales, are brought to life in this project through an intuitive 
+and engaging user interface.
 Features:
 
 Multiple Fractal Types: FractalVis supports a variety of popular fractal types, including the Mandelbrot set, Julia set, and more. Users can choose from a menu of fractal options to explore and visualize.
