@@ -18,6 +18,8 @@ use mouse wheel to zoom in and out .
 
 use the direction keys to move whitin an image .
 
+DESCRIPTION :
+
 fract-ol is an interactive fractal visualization project developed in C, utilizing the powerful MLX (MiniLibX) library for graphical rendering. Fractals, complex mathematical patterns that exhibit self-similarity at various scales, are brought to life in this project through an intuitive 
 and engaging user interface.
 Features:
@@ -41,6 +43,8 @@ Educational Resources: FractalVis includes documentation and explanations about 
 Cross-Platform Compatibility: FractalVis is developed to be cross-platform, ensuring that users can enjoy the exploration of fractals on various operating systems.
 
 This project aims to provide an accessible and visually appealing platform for users to dive into the captivating world of fractals. Whether you are a mathematics enthusiast, an artist, or simply curious about the beauty of mathematical patterns, FractalVis invites you to embark on a mesmerizing journey of discovery and creativity.
+
+PICTURES :
 
 mandelbrot : 
 
