@@ -1,3 +1,15 @@
+USAGE :
+./fractal parameters
+list of available parameters :
+1 - mandelbrot
+2 - julia
+3 - tricorn
+
+COMMANDS :
+G : change color .
+use mouse wheel to zoom in and out .
+use the direction keys to move whitin an image .
+
 fract-ol is an interactive fractal visualization project developed in C, utilizing the powerful MLX (MiniLibX) library for graphical rendering. Fractals, complex mathematical patterns that exhibit self-similarity at various scales, are brought to life in this project through an intuitive and engaging user interface.
 Features:
 
@@ -20,3 +32,15 @@ Educational Resources: FractalVis includes documentation and explanations about 
 Cross-Platform Compatibility: FractalVis is developed to be cross-platform, ensuring that users can enjoy the exploration of fractals on various operating systems.
 
 This project aims to provide an accessible and visually appealing platform for users to dive into the captivating world of fractals. Whether you are a mathematics enthusiast, an artist, or simply curious about the beauty of mathematical patterns, FractalVis invites you to embark on a mesmerizing journey of discovery and creativity.
+
+mandelbrot : 
+<img width="799" alt="Screen Shot 2023-08-08 at 11 15 37 AM" src="https://github.com/med-ghali/fract-ol/assets/62386753/baaeebd8-bd50-43fe-9652-4fc091772385">
+<img width="800" alt="Screen Shot 2023-08-08 at 11 16 18 AM" src="https://github.com/med-ghali/fract-ol/assets/62386753/74e52638-fbd9-4930-b373-63611db84cfa">
+
+julia : 
+<img width="795" alt="Screen Shot 2023-08-08 at 11 17 01 AM" src="https://github.com/med-ghali/fract-ol/assets/62386753/14092405-2ff6-4ff5-93b4-2a6d220d436f">
+<img width="791" alt="Screen Shot 2023-08-08 at 11 17 38 AM" src="https://github.com/med-ghali/fract-ol/assets/62386753/ac3cb7ec-531b-4afb-8a25-706433e5f5ec">
+
+tricorn :
+<img width="798" alt="Screen Shot 2023-08-08 at 11 17 59 AM" src="https://github.com/med-ghali/fract-ol/assets/62386753/99c6113d-5fae-4a76-a131-aaea67c223d3">
+<img width="799" alt="Screen Shot 2023-08-08 at 11 18 12 AM" src="https://github.com/med-ghali/fract-ol/assets/62386753/29e8f689-af3f-4d2d-9447-2c93f3ac5b63">
