@@ -1,6 +1,6 @@
 USAGE :
 
-./fractal parameters
+./fractal parameter
 
 list of available parameters :
 
